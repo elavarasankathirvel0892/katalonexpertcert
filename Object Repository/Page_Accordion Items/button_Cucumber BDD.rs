@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cucumber BDD</name>
+   <tag></tag>
+   <elementGuidId>5cef226e-f575-41f6-b524-edd9fede455e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cucumber-accordion</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='cucumber-accordion']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Cucumber BDD +&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d2b83f9b-ca99-45ad-ba41-9545336981cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordion</value>
+      <webElementGuid>861fac37-0cf3-40ee-8100-4f3b657c9e79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cucumber-accordion</value>
+      <webElementGuid>cf17868c-08a3-4e2c-b78b-fca1cc1fa8fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cucumber BDD</value>
+      <webElementGuid>2f829875-bdaa-4794-85c0-7a294aaf8136</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cucumber-accordion&quot;)</value>
+      <webElementGuid>f519bce4-fb60-4b52-89a3-54e6455ee106</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='cucumber-accordion']</value>
+      <webElementGuid>c25e6703-a438-40d5-94b7-a3dba1e8e15c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manual Testing'])[1]/following::button[1]</value>
+      <webElementGuid>0dbf862d-7ca9-4375-9b06-301350f93bec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click on One of the Accordian Items Below!'])[1]/following::button[2]</value>
+      <webElementGuid>9650ed96-c622-461e-bb81-933f03f4d523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Testing'])[1]/preceding::button[1]</value>
+      <webElementGuid>033b8d05-1fd4-4148-831b-9969c6d4b01f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep Clicking! - Text will Appear After 5 Seconds!'])[1]/preceding::button[2]</value>
+      <webElementGuid>b2f69aca-50fa-4c39-9932-8fbd7c792393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cucumber BDD']/parent::*</value>
+      <webElementGuid>d735e482-f606-4339-9249-5fe40f1e49e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>d1e0dc49-baa2-49f4-8620-9d0ad29bab26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'cucumber-accordion' and (text() = 'Cucumber BDD' or . = 'Cucumber BDD')]</value>
+      <webElementGuid>6b655259-b646-4273-8e49-cedb4b353f5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

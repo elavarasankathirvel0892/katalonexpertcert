@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_ACTIONS</name>
+   <tag></tag>
+   <elementGuidId>1f900648-2b5a-4e50-ae68-81c7b46901bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#actions > div.thumbnail > div.section-title > h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='actions']/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;ACTIONS Can you really handle this challenge? The webdriver actions class enables the developer to perform a wide range of distinct user actions whether it’s trying to perform double click(s), click and hold(s) or even attempting to drag and drop a specific element(s), have fun with the following challenge! I know I would 😊&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>752a17be-0663-4306-9bd6-88d31d7148aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ACTIONS</value>
+      <webElementGuid>390b4568-83d2-4b09-b8b8-bf4a18b4a484</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actions&quot;)/div[@class=&quot;thumbnail&quot;]/div[@class=&quot;section-title&quot;]/h1[1]</value>
+      <webElementGuid>7c99637c-8c37-4266-8ac2-51df3f4b156e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='actions']/div/div/h1</value>
+      <webElementGuid>3ea47575-efac-4853-94f9-b6c8832edf52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wait..... for the Ajax Loader'])[1]/following::h1[1]</value>
+      <webElementGuid>9daee4ed-9994-4e44-a79b-6179940a1a95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AJAX LOADER'])[1]/following::h1[1]</value>
+      <webElementGuid>68ed54fb-fe94-4582-9578-9d2e42c911ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Can you really handle this challenge?'])[1]/preceding::h1[1]</value>
+      <webElementGuid>4be44d11-39e6-46a3-a99b-539702d5656f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SCROLLING AROUND'])[1]/preceding::h1[1]</value>
+      <webElementGuid>a8b170cf-d526-43d5-b6c7-bcfceebce936</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ACTIONS']/parent::*</value>
+      <webElementGuid>b5c5a8c8-a2e4-4f30-aa73-704e606f33cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/a/div/div/h1</value>
+      <webElementGuid>a8b09d10-3ccf-47be-8879-5f55c75c6f9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'ACTIONS' or . = 'ACTIONS')]</value>
+      <webElementGuid>5d80bf37-edfd-4620-bbc5-d5fcb8315150</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

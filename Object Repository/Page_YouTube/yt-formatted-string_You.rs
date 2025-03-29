@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>yt-formatted-string_You</name>
+   <tag></tag>
+   <elementGuidId>c51b741e-5920-45b6-8338-751e5065248e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='endpoint']/tp-yt-paper-item/yt-formatted-string)[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#sections >> internal:attr=[title=&quot;You&quot;s] >> internal:role=link[name=&quot;You&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>yt-formatted-string</value>
+      <webElementGuid>161f4972-9a05-419b-babe-d76fdd2bb94a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title style-scope ytd-guide-entry-renderer</value>
+      <webElementGuid>152933f9-3bee-40cd-bf1e-54756023725f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You</value>
+      <webElementGuid>8b1b1688-4617-4a94-9071-ce5d2001591f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sections&quot;)/ytd-guide-section-renderer[@class=&quot;style-scope ytd-guide-renderer&quot;]/div[@id=&quot;items&quot;]/ytd-guide-entry-renderer[@class=&quot;style-scope ytd-guide-section-renderer&quot;]/a[@id=&quot;endpoint&quot;]/tp-yt-paper-item[@class=&quot;style-scope ytd-guide-entry-renderer&quot;]/yt-formatted-string[@class=&quot;title style-scope ytd-guide-entry-renderer&quot;]</value>
+      <webElementGuid>c27f7ac6-27bb-4bfc-96c7-eacd5a4300bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='endpoint']/tp-yt-paper-item/yt-formatted-string)[4]</value>
+      <webElementGuid>94b47593-ff9a-45f7-9cdd-e61b4bc6cf9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriptions'])[1]/following::yt-formatted-string[2]</value>
+      <webElementGuid>363bf063-3ae9-4233-a4f4-c5799c2f0845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shorts'])[1]/following::yt-formatted-string[3]</value>
+      <webElementGuid>8b90ff66-ac81-42b0-89b5-d68d2553f454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/preceding::yt-formatted-string[1]</value>
+      <webElementGuid>6634e248-5781-4188-93df-3a540cfeaf43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in to like videos, comment and subscribe.'])[1]/preceding::yt-formatted-string[2]</value>
+      <webElementGuid>d0c98c8e-305d-4ba0-93fd-3e24370159d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='You']/parent::*</value>
+      <webElementGuid>5fde211a-a73a-469c-8434-de2cadbba527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ytd-guide-section-renderer[2]/div/ytd-guide-entry-renderer/a/tp-yt-paper-item/yt-formatted-string</value>
+      <webElementGuid>e69ad031-64c4-4b90-8d83-a5910144c3b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//yt-formatted-string[(text() = 'You' or . = 'You')]</value>
+      <webElementGuid>a9869f44-1b35-4f47-bc18-33296ba8805e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

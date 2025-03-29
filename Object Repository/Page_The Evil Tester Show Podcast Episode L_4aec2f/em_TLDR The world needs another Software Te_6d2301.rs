@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_TLDR The world needs another Software Te_6d2301</name>
+   <tag></tag>
+   <elementGuidId>b27364ed-8e28-4872-8957-e1cf4ae401ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>em</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main']/div/div/article/p/em</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;TLDR; The world needs another Software Testing Podcast. So I created one.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>a6a5a088-a654-4cf5-8801-54b64cbfee73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TLDR; The world needs another Software Testing Podcast. So I created one.</value>
+      <webElementGuid>cb5eb711-d513-4d76-a913-17784569775e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;jumbotron&quot;]/article[1]/p[1]/em[1]</value>
+      <webElementGuid>abf14435-0af6-46fe-a478-7bc0707dcef4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/div/div/article/p/em</value>
+      <webElementGuid>7f81bff5-b035-4ec5-89e9-45198f7b69c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Evil Tester Show'])[1]/following::em[1]</value>
+      <webElementGuid>afe38ca2-ea52-41c1-bc06-e8953c01fc1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Form'])[1]/following::em[1]</value>
+      <webElementGuid>f789c352-c101-41cc-a917-3fcfc7b7b1d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to “The Evil Tester Show”. A Podcast (audio and visual) about Software Testing.'])[1]/preceding::em[1]</value>
+      <webElementGuid>3f1efc2b-ced0-44db-8e06-7e380fd63f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On Podcast.co'])[1]/preceding::em[1]</value>
+      <webElementGuid>871e562c-6834-46db-8fe9-171af5884f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TLDR; The world needs another Software Testing Podcast. So I created one.']/parent::*</value>
+      <webElementGuid>ed7edd52-b5fc-4121-9ffb-02cf3c3ee86f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//em</value>
+      <webElementGuid>e7a93af6-b9a0-48ce-8ffe-3bf033f9c051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//em[(text() = 'TLDR; The world needs another Software Testing Podcast. So I created one.' or . = 'TLDR; The world needs another Software Testing Podcast. So I created one.')]</value>
+      <webElementGuid>3507ec9e-8246-40d7-9f02-2ba5e71b501d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

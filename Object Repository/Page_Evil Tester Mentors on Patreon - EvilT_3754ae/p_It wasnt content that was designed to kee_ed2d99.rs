@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_It wasnt content that was designed to kee_ed2d99</name>
+   <tag></tag>
+   <elementGuidId>cd4dd0f8-68c9-41ec-a0dd-a16db25c84fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(4)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/p[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;It wasn’t content that was designed to keep testing at the forefront of your min&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ae960c92-bc46-4bf3-b7bf-7de1f5199d2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>It wasn’t content that was designed to keep testing at the forefront of your mind and to keep you focussed on improving your testing.</value>
+      <webElementGuid>f24645d6-ed5e-45df-9af4-fa0115914a82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/p[4]</value>
+      <webElementGuid>b160c760-e03c-4b18-9cfe-a64b848f3cbf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/p[4]</value>
+      <webElementGuid>419f2b86-8498-41b0-a3b6-5ab6c52fe10b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Mentoring?'])[1]/following::p[2]</value>
+      <webElementGuid>1a553b73-8231-41bf-9d6f-90e4819dc0c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn More On The Patreon Page'])[1]/following::p[2]</value>
+      <webElementGuid>f8f75194-b7d8-462a-a0c5-fb7eb8d6a0c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I will share my experience of learning and implementing testing for over 20+ years'])[1]/preceding::p[4]</value>
+      <webElementGuid>3eaffcb9-6ca9-488d-928e-c25c9da503da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I will share my experience of programming and Software Development for over 20+ years'])[1]/preceding::p[4]</value>
+      <webElementGuid>1b411df5-60e6-4285-811f-61743375f293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='It wasn’t content that was designed to keep testing at the forefront of your mind and to keep you focussed on improving your testing.']/parent::*</value>
+      <webElementGuid>635b9687-ce87-4900-9456-858db1da15bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[4]</value>
+      <webElementGuid>cca76ee5-9d7c-4016-9b80-097c4728e28d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'It wasn’t content that was designed to keep testing at the forefront of your mind and to keep you focussed on improving your testing.' or . = 'It wasn’t content that was designed to keep testing at the forefront of your mind and to keep you focussed on improving your testing.')]</value>
+      <webElementGuid>e5dea508-120f-4ab6-bace-12d44d215084</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

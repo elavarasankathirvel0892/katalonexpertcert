@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Checkboxe(s)</name>
+   <tag></tag>
+   <elementGuidId>02de2eea-5573-43a4-b339-80d579b50b18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dropdown Menu(s)'])[1]/following::h2[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Checkboxe(s)&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>fdd3b143-d68d-4ccc-a5b8-05b165e8fad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Checkboxe(s)</value>
+      <webElementGuid>a2328da3-8b04-40bd-a119-0dc96b219139</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;col-sm-4 col-lg-4 col-md-4&quot;]/div[@class=&quot;thumbnail&quot;]/h2[1]</value>
+      <webElementGuid>df399d12-3680-452d-a9e1-0d7c2ff5b035</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dropdown Menu(s)'])[1]/following::h2[1]</value>
+      <webElementGuid>8d8cddaf-d162-43f6-805c-f807534db640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dropdown Menu(s), Checkboxe(s) &amp; Radio Button(s)'])[1]/following::h2[2]</value>
+      <webElementGuid>5f9c9c72-f319-4388-a3a9-5df3e1f45279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Option 1'])[1]/preceding::h2[1]</value>
+      <webElementGuid>b6c21785-14aa-4acd-911a-7452d6a3f464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Option 2'])[1]/preceding::h2[1]</value>
+      <webElementGuid>91f08830-f1b3-4763-875d-f3e86b8140ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Checkboxe(s)']/parent::*</value>
+      <webElementGuid>81cc6885-d4e5-4e64-bc9b-35ccccdf0c7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/h2</value>
+      <webElementGuid>c1a36560-bfc3-4de4-bbec-dfc8528a1656</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Checkboxe(s)' or . = 'Checkboxe(s)')]</value>
+      <webElementGuid>5ccdf997-208d-4488-b8d2-b429ed6e8a5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

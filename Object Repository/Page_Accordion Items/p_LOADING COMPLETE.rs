@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_LOADING COMPLETE</name>
+   <tag></tag>
+   <elementGuidId>4d3038b4-e23d-4296-b4fa-3fffe94e5a8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#hidden-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='hidden-text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;LOADING COMPLETE.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3fcaf5cd-8c95-487a-b42e-98f21400d5fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>hidden-text</value>
+      <webElementGuid>8b291390-ad13-49ff-9844-ad1842dcb28d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LOADING COMPLETE.</value>
+      <webElementGuid>5a82539f-36c2-4eff-90ae-b19ee60bfcf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hidden-text&quot;)</value>
+      <webElementGuid>ee41d46e-90ea-4839-814b-9b9998aab5e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='hidden-text']</value>
+      <webElementGuid>06f1ef75-5f64-433f-a325-c6b19a0c5681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='text-appear-box']/p</value>
+      <webElementGuid>92b89bf3-fae7-4a0f-a0eb-5ee9aebecdbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This text has appeared after 5 seconds!'])[1]/following::p[1]</value>
+      <webElementGuid>09f7b032-14eb-40ac-829e-f6fc5df07f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep Clicking! - Text will Appear After 5 Seconds!'])[1]/following::p[1]</value>
+      <webElementGuid>ae12aa0b-d79b-4f3d-8e5c-c6fd792783e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LOADING COMPLETE.']/parent::*</value>
+      <webElementGuid>fbd362c6-7c78-460b-9f41-3b6bc16c1e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/p</value>
+      <webElementGuid>5a0bc6ae-efc7-4a19-8417-9c282f190e05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'hidden-text' and (text() = 'LOADING COMPLETE.' or . = 'LOADING COMPLETE.')]</value>
+      <webElementGuid>d9d6f8f8-2eb3-41a0-9948-d5d1e96b8072</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

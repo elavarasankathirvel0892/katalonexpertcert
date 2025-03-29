@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Im hoping that Patreon will attract peopl_3f1522</name>
+   <tag></tag>
+   <elementGuidId>50f646fe-f7be-45b1-bf6d-ba01218b218b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(6)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/p[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;I’m hoping that Patreon will attract people who are actively working on improvin&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4373b44c-6221-4d2e-abd8-e980a094c4a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I’m hoping that Patreon will attract people who are actively working on improving their testing. Are interested in seeing testing ’everywhere’ and learning from as many disciplines as possible. My hope is that like minded people will be asking questions, providing answers to each other and helping steer the type of content that I create to help the group and the individuals in the group advance.</value>
+      <webElementGuid>5941c5ef-063d-4033-9b1b-4136c8d6a19c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/p[6]</value>
+      <webElementGuid>90bb078e-6788-4807-b949-a379da8e1545</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/p[6]</value>
+      <webElementGuid>7fa5001a-c442-45e4-b701-e3a527b1fa91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Mentoring?'])[1]/following::p[4]</value>
+      <webElementGuid>9fcc8c8a-0122-420e-a3d4-2a4091d1449b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn More On The Patreon Page'])[1]/following::p[4]</value>
+      <webElementGuid>99598f77-e3d3-4daf-9679-ae3337b73fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I will share my experience of learning and implementing testing for over 20+ years'])[1]/preceding::p[2]</value>
+      <webElementGuid>5dd4d3e1-5b8d-49b9-a983-63fe9e9f3569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I will share my experience of programming and Software Development for over 20+ years'])[1]/preceding::p[2]</value>
+      <webElementGuid>631de7d4-6d95-4204-8196-870e3dca133e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I’m hoping that Patreon will attract people who are actively working on improving their testing. Are interested in seeing testing ’everywhere’ and learning from as many disciplines as possible. My hope is that like minded people will be asking questions, providing answers to each other and helping steer the type of content that I create to help the group and the individuals in the group advance.']/parent::*</value>
+      <webElementGuid>a903155f-3cc3-4279-944f-eb2578ab20d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[6]</value>
+      <webElementGuid>f5349db9-69a2-43e1-8fcc-a22fe24b44d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'I’m hoping that Patreon will attract people who are actively working on improving their testing. Are interested in seeing testing ’everywhere’ and learning from as many disciplines as possible. My hope is that like minded people will be asking questions, providing answers to each other and helping steer the type of content that I create to help the group and the individuals in the group advance.' or . = 'I’m hoping that Patreon will attract people who are actively working on improving their testing. Are interested in seeing testing ’everywhere’ and learning from as many disciplines as possible. My hope is that like minded people will be asking questions, providing answers to each other and helping steer the type of content that I create to help the group and the individuals in the group advance.')]</value>
+      <webElementGuid>41a07630-5e5f-4e60-95a7-ad87f76a729b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

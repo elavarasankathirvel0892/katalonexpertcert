@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Just for fun, you might want to try The E_aa9eed</name>
+   <tag></tag>
+   <elementGuidId>0a032b65-2617-4747-8c94-ec4077e7b8d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main']/div[2]/div/article/p[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Just for fun, you might want to try The Evil Tester Sloganizer for generating mo&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f81cd1de-5409-417e-9fa8-6c72c8042cbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Just for fun, you might want to try The Evil Tester Sloganizer for generating motivational slogans for helping you test.</value>
+      <webElementGuid>5ed505f6-e5e7-4fa4-8b2a-e0b4be244315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;jumbotron&quot;]/article[1]/p[3]</value>
+      <webElementGuid>564016d6-c7da-4b03-8eb6-bd992efea99f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/div[2]/div/article/p[3]</value>
+      <webElementGuid>dc0b506f-565e-46d2-9dd5-84d37bbd1273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='URL Control Center'])[1]/following::p[1]</value>
+      <webElementGuid>4123776a-fcb4-49cb-aedb-f91c9179c171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Control Center'])[1]/following::p[1]</value>
+      <webElementGuid>e5bd6b3e-9915-43b0-9483-8fc2b351c19b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notable items that I maintain are listed below:'])[1]/preceding::p[1]</value>
+      <webElementGuid>7e5853cd-e981-4467-8407-b532eea16c94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Just for fun, you might want to try']/parent::*</value>
+      <webElementGuid>01176f01-2b60-481d-81c0-4306e2b90007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]</value>
+      <webElementGuid>48bf3e18-1124-439f-90e4-0e367207cb2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Just for fun, you might want to try The Evil Tester Sloganizer for generating motivational slogans for helping you test.' or . = 'Just for fun, you might want to try The Evil Tester Sloganizer for generating motivational slogans for helping you test.')]</value>
+      <webElementGuid>9f0ba2ff-940c-4d30-8dd6-b3759acb1849</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

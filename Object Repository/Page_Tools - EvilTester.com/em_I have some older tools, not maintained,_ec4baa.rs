@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_I have some older tools, not maintained,_ec4baa</name>
+   <tag></tag>
+   <elementGuidId>9a25144b-b404-4d11-94d5-17ddae5e60a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>em</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main']/div[2]/div/article/ul/li/p/em</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;I have some older tools, not maintained, that might be of interest: Exploratory &quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>36c98c23-5bd9-4b49-8a24-07d06ccd1299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I have some older tools, not maintained, that might be of interest: Exploratory Test Assistant, Locky - the file locking test tool, Test Data Utilities Written in VB and in Excel</value>
+      <webElementGuid>75712920-cfac-4259-ada8-fb19821ff037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;jumbotron&quot;]/article[1]/ul[1]/li[1]/p[1]/em[1]</value>
+      <webElementGuid>24bc49f5-752b-4c0a-9833-cc376bccf630</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/div[2]/div/article/ul/li/p/em</value>
+      <webElementGuid>25103fcf-d41a-44c6-9e06-cb5d13c97e5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GitHub'])[1]/following::em[1]</value>
+      <webElementGuid>95986693-d883-40ff-be2a-a098b4342135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools'])[2]/following::em[1]</value>
+      <webElementGuid>21af53da-70da-43f0-a7bc-38748003dda2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I have some older tools, not maintained, that might be of interest:']/parent::*</value>
+      <webElementGuid>92f4278f-e608-44be-8da0-57ef2e0216d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//em</value>
+      <webElementGuid>391bfa12-5d35-4afe-92b0-3cc6d99efbc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//em[(text() = 'I have some older tools, not maintained, that might be of interest: Exploratory Test Assistant, Locky - the file locking test tool, Test Data Utilities Written in VB and in Excel' or . = 'I have some older tools, not maintained, that might be of interest: Exploratory Test Assistant, Locky - the file locking test tool, Test Data Utilities Written in VB and in Excel')]</value>
+      <webElementGuid>ec564349-c4a5-4cea-8214-a1154e0b9b74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

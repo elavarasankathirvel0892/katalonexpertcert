@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>yt-formatted-string_Shopping</name>
+   <tag></tag>
+   <elementGuidId>a20d0544-39e7-44a8-a8a9-2bfc890d2f81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='endpoint']/tp-yt-paper-item/yt-formatted-string)[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Shopping&quot;i] >> internal:role=link[name=&quot;Shopping&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>yt-formatted-string</value>
+      <webElementGuid>32c2fad2-9690-4989-86b9-c62e02d6cd67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title style-scope ytd-guide-entry-renderer</value>
+      <webElementGuid>a005cb2d-99ab-40c7-be6f-44b1d2c2e453</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shopping</value>
+      <webElementGuid>87a3492a-b9ab-4ae4-bfc2-4c8e8b92936e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sections&quot;)/ytd-guide-section-renderer[@class=&quot;style-scope ytd-guide-renderer&quot;]/div[@id=&quot;items&quot;]/ytd-guide-entry-renderer[@class=&quot;style-scope ytd-guide-section-renderer&quot;]/a[@id=&quot;endpoint&quot;]/tp-yt-paper-item[@class=&quot;style-scope ytd-guide-entry-renderer&quot;]/yt-formatted-string[@class=&quot;title style-scope ytd-guide-entry-renderer&quot;]</value>
+      <webElementGuid>b7392ae4-3bb6-4018-8626-9c7c14c1b591</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='endpoint']/tp-yt-paper-item/yt-formatted-string)[7]</value>
+      <webElementGuid>309de4b2-6d89-4646-a17c-55b51976534d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trending'])[1]/following::yt-formatted-string[1]</value>
+      <webElementGuid>7d3681ea-00cf-4c2b-bb02-710299e333f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore'])[1]/following::yt-formatted-string[2]</value>
+      <webElementGuid>587bb276-77df-47e9-9cf9-320fbbcbaa04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Music'])[1]/preceding::yt-formatted-string[1]</value>
+      <webElementGuid>ed02bf76-3147-4228-a199-fe97b15d481c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Films'])[1]/preceding::yt-formatted-string[2]</value>
+      <webElementGuid>3a60fa8b-6f38-4042-97d4-f9fa4e9e33e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shopping']/parent::*</value>
+      <webElementGuid>4a7b6fcb-c1e0-4dd3-990a-4a1295f15f07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ytd-guide-section-renderer[3]/div/ytd-guide-entry-renderer[2]/a/tp-yt-paper-item/yt-formatted-string</value>
+      <webElementGuid>17b39107-c179-478e-b6ed-ee5a92b2515e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//yt-formatted-string[(text() = 'Shopping' or . = 'Shopping')]</value>
+      <webElementGuid>c59c1e93-f31e-47c6-8c82-c624cd344867</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_I have presented at conferences world wid_6b613f</name>
+   <tag></tag>
+   <elementGuidId>98b0612b-d33c-49d5-a865-c0f3d301c46c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main']/div/div/article/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;I have presented at conferences world wide since 2003. Most of the conferences b&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a035fd1f-427e-483e-beb9-ce711b6aff7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I have presented at conferences world wide since 2003. Most of the conferences below have links to a write up of the talks and slides.</value>
+      <webElementGuid>29d6f1ee-477f-4944-9fc0-94e82f0467b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;jumbotron&quot;]/article[1]/p[1]</value>
+      <webElementGuid>33bd4ea3-6e43-44a4-9bc8-d3ef08b6eb9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/div/div/article/p</value>
+      <webElementGuid>84aa65d0-6e2f-4dce-8e89-9d6ca2ec0e68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A List of Conference Talks, Keynotes and Tutorials'])[1]/following::p[1]</value>
+      <webElementGuid>25d8f71a-4570-452c-900c-0580027016a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conference Talks'])[1]/following::p[1]</value>
+      <webElementGuid>006e2620-6aef-4a4a-915a-55c78d15e66a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evil Tester Talks'])[2]/preceding::p[1]</value>
+      <webElementGuid>3878bdb5-a9c8-417f-a86c-2662ae6cde3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn More and Start Watching Testing Talks'])[1]/preceding::p[2]</value>
+      <webElementGuid>f800cf15-1d69-4398-b976-ad3b3b11ffc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I have presented at conferences world wide since 2003. Most of the conferences below have links to a write up of the talks and slides.']/parent::*</value>
+      <webElementGuid>2e92eded-9996-40fd-8405-c8ceb1c668da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>60eae6f0-0153-4118-a285-67af5abdca63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'I have presented at conferences world wide since 2003. Most of the conferences below have links to a write up of the talks and slides.' or . = 'I have presented at conferences world wide since 2003. Most of the conferences below have links to a write up of the talks and slides.')]</value>
+      <webElementGuid>c2ec7d37-7136-414d-9f2b-ef7238f8f35b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

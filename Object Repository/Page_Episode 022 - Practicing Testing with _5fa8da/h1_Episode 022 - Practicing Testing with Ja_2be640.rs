@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Episode 022 - Practicing Testing with Ja_2be640</name>
+   <tag></tag>
+   <elementGuidId>b2f26988-4939-4a8d-bc80-1ca06f073891</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Episode 022 - Practicing Testing with James Lyndsay - The Evil Tester Show&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>331dfa88-2287-4238-a5c3-24ee508e8fa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>a54f7461-833f-451f-ab53-9236f31e2157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Episode 022 - Practicing Testing with James Lyndsay - The Evil Tester Show</value>
+      <webElementGuid>e8cce948-6faa-4102-b05d-cd12c24a343c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;title&quot;)</value>
+      <webElementGuid>b82023c2-1ac9-4cf7-a0a6-33d7b1f545b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h1[@id='title']</value>
+      <webElementGuid>7014cfb0-6f04-49ac-ac58-4849bdbf8159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='content']/div/div/h1</value>
+      <webElementGuid>c651e246-cd4e-48d9-8d15-c1b0f3acc4e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Form'])[1]/following::h1[1]</value>
+      <webElementGuid>d99de6d3-20b9-4868-99d2-4b032659baec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email List'])[1]/following::h1[1]</value>
+      <webElementGuid>8f0feb59-fc37-4b1d-8759-66f31c8f84d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download and Listen to the show as a podcast'])[1]/preceding::h1[1]</value>
+      <webElementGuid>10fbf9c5-54fd-4d53-949b-502e38fe4567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Watch The Show on YouTube'])[1]/preceding::h1[1]</value>
+      <webElementGuid>0a48c244-f011-48cf-b0c0-c9b59f86a7f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Episode 022 - Practicing Testing with James Lyndsay - The Evil Tester Show']/parent::*</value>
+      <webElementGuid>2226ba21-f2d4-4d77-bd85-41d9f1a7bdea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>465352c4-9e99-4571-93e7-30cdff6b48a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[@id = 'title' and (text() = 'Episode 022 - Practicing Testing with James Lyndsay - The Evil Tester Show' or . = 'Episode 022 - Practicing Testing with James Lyndsay - The Evil Tester Show')]</value>
+      <webElementGuid>58e5a00f-21a8-4428-8ba9-9ac01e4b97b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

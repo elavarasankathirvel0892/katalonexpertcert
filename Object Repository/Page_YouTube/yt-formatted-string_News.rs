@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>yt-formatted-string_News</name>
+   <tag></tag>
+   <elementGuidId>fc23b6f6-7dc4-4d8d-8954-272a8ed59c80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='endpoint']/tp-yt-paper-item/yt-formatted-string)[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;News&quot;s] >> internal:role=link[name=&quot;News&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>yt-formatted-string</value>
+      <webElementGuid>e620f010-80de-4d66-8e75-436e8b313884</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title style-scope ytd-guide-entry-renderer</value>
+      <webElementGuid>026f6f16-39bc-4ea9-ac83-ffefbb2c1844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>News</value>
+      <webElementGuid>3f808a9a-99d6-4ff8-90b2-195fc57cd2cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sections&quot;)/ytd-guide-section-renderer[@class=&quot;style-scope ytd-guide-renderer&quot;]/div[@id=&quot;items&quot;]/ytd-guide-entry-renderer[@class=&quot;style-scope ytd-guide-section-renderer&quot;]/a[@id=&quot;endpoint&quot;]/tp-yt-paper-item[@class=&quot;style-scope ytd-guide-entry-renderer&quot;]/yt-formatted-string[@class=&quot;title style-scope ytd-guide-entry-renderer&quot;]</value>
+      <webElementGuid>2df8947d-ef5c-4335-8405-7182dcd8bbd1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='endpoint']/tp-yt-paper-item/yt-formatted-string)[12]</value>
+      <webElementGuid>ec1d33a6-932a-4cae-9262-a7d1e066481d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gaming'])[1]/following::yt-formatted-string[1]</value>
+      <webElementGuid>1ee7548f-70ff-41da-8fed-43742f83d973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live'])[1]/following::yt-formatted-string[2]</value>
+      <webElementGuid>bc66a5e4-d479-455b-9ed8-f9a4be0b1f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sport'])[1]/preceding::yt-formatted-string[1]</value>
+      <webElementGuid>705df54f-1764-4ddb-9f9f-c0cdce3ab4bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Courses'])[1]/preceding::yt-formatted-string[2]</value>
+      <webElementGuid>6b2d14d2-487d-4091-a712-f22aecdb7f47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='News']/parent::*</value>
+      <webElementGuid>42aadb66-9a10-470a-9e25-b91d098f9be6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ytd-guide-entry-renderer[7]/a/tp-yt-paper-item/yt-formatted-string</value>
+      <webElementGuid>99f697a6-2faa-4263-a192-0419422177aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//yt-formatted-string[(text() = 'News' or . = 'News')]</value>
+      <webElementGuid>752fe85c-0435-48d8-846b-6e95223c448e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Hover Over Me First</name>
+   <tag></tag>
+   <elementGuidId>b3cd1db8-29a4-4230-8912-5295811ff829</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.dropbtn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div-hover']/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Hover Over Me First!&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d99dc4f5-0ac7-464d-be9d-43dda54c4503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropbtn</value>
+      <webElementGuid>91f17e6b-8524-4b33-8aa3-dcc051c8b72c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hover Over Me First!</value>
+      <webElementGuid>1af3429c-028a-48bc-a4a2-43ef7913c321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div-hover&quot;)/div[@class=&quot;dropdown hover&quot;]/button[@class=&quot;dropbtn&quot;]</value>
+      <webElementGuid>c2ca6537-e45d-46a0-9d77-5abbadc2f489</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div-hover']/div/button</value>
+      <webElementGuid>0e67ee51-ea62-4770-8994-2ed75724f6f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Double Click Me!'])[1]/following::button[1]</value>
+      <webElementGuid>8e7e6458-bf95-48dc-8b43-1ef421854a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DROP HERE!'])[1]/following::button[1]</value>
+      <webElementGuid>1d1e5c91-c859-445e-b4ef-42842b2ef8be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hover Over Me Second!'])[1]/preceding::button[1]</value>
+      <webElementGuid>bde9de8b-5b0e-4c2b-b444-a7da507865bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hover Over Me Third!'])[1]/preceding::button[2]</value>
+      <webElementGuid>08b0224c-4c7c-412b-8e79-3fec6023e8ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hover Over Me First!']/parent::*</value>
+      <webElementGuid>46a6a1b3-14be-40d1-a3b4-34b3e2f0af19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/button</value>
+      <webElementGuid>57c324c4-69be-41eb-a4e4-e5b35dc909a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Hover Over Me First!' or . = 'Hover Over Me First!')]</value>
+      <webElementGuid>be2b594a-fba4-4e50-8306-ee8e27b96f7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Notable items that I maintain are listed below</name>
+   <tag></tag>
+   <elementGuidId>6913a1a6-253e-4f3d-a4fd-b8fbf7bc2e5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#notable-items-that-i-maintain-are-listed-below</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='notable-items-that-i-maintain-are-listed-below']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Notable items that I maintain are listed below:&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>437f5560-751e-4c6b-bec7-29623ed27655</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>notable-items-that-i-maintain-are-listed-below</value>
+      <webElementGuid>1aea82a6-88ae-425e-985d-98a6c91c24f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Notable items that I maintain are listed below:</value>
+      <webElementGuid>9beed322-835c-4b85-94dc-0f885ba6e485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;notable-items-that-i-maintain-are-listed-below&quot;)</value>
+      <webElementGuid>8a1b9490-c7a7-4368-a5f1-b742b8288817</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='notable-items-that-i-maintain-are-listed-below']</value>
+      <webElementGuid>97c7d83f-5f7c-4786-bf7b-de8cfff3b836</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/div[2]/div/article/h2</value>
+      <webElementGuid>7d155be0-6135-4a47-9a8a-0f243768b947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Evil Tester Sloganizer'])[1]/following::h2[1]</value>
+      <webElementGuid>e61d1262-c75f-4734-9af6-efcf834c2c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='URL Control Center'])[1]/following::h2[1]</value>
+      <webElementGuid>04b48d02-4f3b-44b9-979b-6dd98916eb4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API Challenges - an API testing practice app'])[1]/preceding::h2[1]</value>
+      <webElementGuid>3709c156-e1dc-48f3-959c-bacb47bf60e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buggy Apps'])[1]/preceding::h2[2]</value>
+      <webElementGuid>10cacc9d-b743-4832-9874-3757d8fe8f33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Notable items that I maintain are listed below:']/parent::*</value>
+      <webElementGuid>3fc3caed-3332-4041-bc20-26bd4c9d277b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>b29c63ba-3a73-462c-9d08-c5acdff5b3d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'notable-items-that-i-maintain-are-listed-below' and (text() = 'Notable items that I maintain are listed below:' or . = 'Notable items that I maintain are listed below:')]</value>
+      <webElementGuid>90800368-b997-49d3-b0a1-461c0d5a0eac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

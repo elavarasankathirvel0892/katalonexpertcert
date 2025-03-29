@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Special Guest James Lyndsay</name>
+   <tag></tag>
+   <elementGuidId>798c29be-f0c7-46a2-a5bb-614bb298c0ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#special-guest-james-lyndsay</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='special-guest-james-lyndsay']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Special Guest: James Lyndsay&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>242d89a7-68b0-46ed-886a-24d27845c3e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>special-guest-james-lyndsay</value>
+      <webElementGuid>7baf8cf8-649e-47f2-af16-e56e2abc7df8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Special Guest: James Lyndsay</value>
+      <webElementGuid>eb24fd77-954d-4407-a6bc-db45a96d1fc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;special-guest-james-lyndsay&quot;)</value>
+      <webElementGuid>46b045fa-6451-4cfb-9be3-16093b7cb47b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='special-guest-james-lyndsay']</value>
+      <webElementGuid>415dfa1a-b76a-414c-bc7f-9f5b681faf32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='postcontent']/h2</value>
+      <webElementGuid>acf3f483-840d-4ebc-a816-17a5bbd5c485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patreon supporters'])[1]/following::h2[1]</value>
+      <webElementGuid>9e082988-c3cd-4e57-a252-a32936a07a1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Notes'])[1]/following::h2[1]</value>
+      <webElementGuid>ff3803d6-08fe-4df0-a3ce-8ae13b9af5cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='workroom-productions.com'])[1]/preceding::h2[1]</value>
+      <webElementGuid>4ca22ce1-648e-46b1-830c-6c6b141150d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LinkedIn'])[1]/preceding::h2[1]</value>
+      <webElementGuid>c668c26b-a730-453b-8a3b-befa38f7e33e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Special Guest: James Lyndsay']/parent::*</value>
+      <webElementGuid>c7359728-6790-4a53-8374-5b34f82d0c0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/h2</value>
+      <webElementGuid>fae4af3a-3ac8-4aeb-9243-2ac1e7708508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'special-guest-james-lyndsay' and (text() = 'Special Guest: James Lyndsay' or . = 'Special Guest: James Lyndsay')]</value>
+      <webElementGuid>b3ea6106-efc8-456f-8287-ed198ff82ad9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

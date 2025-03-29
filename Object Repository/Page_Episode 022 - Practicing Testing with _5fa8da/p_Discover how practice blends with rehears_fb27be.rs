@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Discover how practice blends with rehears_fb27be</name>
+   <tag></tag>
+   <elementGuidId>5beb5306-80ac-4447-ad65-46f2315df7f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='postcontent']/p[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Discover how practice blends with rehearsal and learning, and delve into the int&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>eccc9942-9708-4d25-ba75-203634d13bfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Discover how practice blends with rehearsal and learning, and delve into the intriguing intersection of testing and development. With firsthand experiences in software experiments, fencing, and scientific investigation, James and Alan discuss the art of modeling and exploring software systems. Whether you’re refining your testing techniques or embracing new perspectives with AI, this episode offers a wealth of wisdom for testers at all levels.</value>
+      <webElementGuid>0990b3e5-3923-4ac7-a4ae-fdb1f382a70a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;postcontent&quot;)/p[3]</value>
+      <webElementGuid>ea10c207-f97b-41c7-886a-b5641a4ae091</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='postcontent']/p[3]</value>
+      <webElementGuid>356c2128-621a-4297-801e-cfd78b568d71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patreon supporters'])[1]/following::p[1]</value>
+      <webElementGuid>7b80d257-475e-4abf-bce8-b2e0df20f1f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Notes'])[1]/following::p[3]</value>
+      <webElementGuid>361012dc-6a2e-4a37-8acb-09ce0de35703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Special Guest: James Lyndsay'])[1]/preceding::p[2]</value>
+      <webElementGuid>af2ae2a8-f09e-4a60-9b0f-003503602101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='workroom-productions.com'])[1]/preceding::p[2]</value>
+      <webElementGuid>3ac8e5eb-4fe7-4dbd-8316-823130053d97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Discover how practice blends with rehearsal and learning, and delve into the intriguing intersection of testing and development. With firsthand experiences in software experiments, fencing, and scientific investigation, James and Alan discuss the art of modeling and exploring software systems. Whether you’re refining your testing techniques or embracing new perspectives with AI, this episode offers a wealth of wisdom for testers at all levels.']/parent::*</value>
+      <webElementGuid>2ca67abb-17bc-47a9-9ab0-0ff8a0727b90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]</value>
+      <webElementGuid>338b7303-ea1b-4d2a-8db5-c3b10ac2a579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Discover how practice blends with rehearsal and learning, and delve into the intriguing intersection of testing and development. With firsthand experiences in software experiments, fencing, and scientific investigation, James and Alan discuss the art of modeling and exploring software systems. Whether you’re refining your testing techniques or embracing new perspectives with AI, this episode offers a wealth of wisdom for testers at all levels.' or . = 'Discover how practice blends with rehearsal and learning, and delve into the intriguing intersection of testing and development. With firsthand experiences in software experiments, fencing, and scientific investigation, James and Alan discuss the art of modeling and exploring software systems. Whether you’re refining your testing techniques or embracing new perspectives with AI, this episode offers a wealth of wisdom for testers at all levels.')]</value>
+      <webElementGuid>cd5d6e8e-da14-442d-b420-c363dacea6fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

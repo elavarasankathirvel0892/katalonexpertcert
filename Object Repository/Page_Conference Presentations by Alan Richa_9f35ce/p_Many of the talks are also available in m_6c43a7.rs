@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Many of the talks are also available in m_6c43a7</name>
+   <tag></tag>
+   <elementGuidId>79f27a50-a8b6-47f4-b04d-53e97cafc1ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main']/div/div/article/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Many of the talks are also available in my Evil Tester Talks online training wit&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>07fd47f7-6332-4414-b5f9-75b857e9000f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Many of the talks are also available in my Evil Tester Talks online training with transcripts, exercises, recordings and extra content.</value>
+      <webElementGuid>40bf1fc6-1f16-4485-a102-5f018d277578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;jumbotron&quot;]/article[1]/p[2]</value>
+      <webElementGuid>46987e05-36f8-4614-9693-f2764b2172d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/div/div/article/p[2]</value>
+      <webElementGuid>bc0dbe1a-e46e-4c23-b09e-093403d3b35b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A List of Conference Talks, Keynotes and Tutorials'])[1]/following::p[2]</value>
+      <webElementGuid>4ca20c38-d482-4794-9588-771b53a76d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conference Talks'])[1]/following::p[2]</value>
+      <webElementGuid>5c2502de-16e2-4805-8487-9068421745f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn More and Start Watching Testing Talks'])[1]/preceding::p[1]</value>
+      <webElementGuid>03a92471-bbc4-4e1c-ad07-82932ba4c2a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Many of the talks are also available in my']/parent::*</value>
+      <webElementGuid>ae3d0225-6a35-4ace-8c1b-413e014fb8f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>270792e3-2075-4b73-b2ae-ab235cf7daac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Many of the talks are also available in my Evil Tester Talks online training with transcripts, exercises, recordings and extra content.' or . = 'Many of the talks are also available in my Evil Tester Talks online training with transcripts, exercises, recordings and extra content.')]</value>
+      <webElementGuid>70d1b1f5-c1a3-4480-8072-18807a2b36b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

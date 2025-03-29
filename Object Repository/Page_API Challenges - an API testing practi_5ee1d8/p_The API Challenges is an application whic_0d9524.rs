@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_The API Challenges is an application whic_0d9524</name>
+   <tag></tag>
+   <elementGuidId>0429eb52-5a8b-4314-aa0a-93031191c517</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;The API Challenges is an application which you can use to practice API testing a&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b008ae84-b9ef-4279-98c9-2a335886fe11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The API Challenges is an application which you can use to practice API testing and automating. It is written in Java, runnable locally and has been deployed to the cloud for easy access. It contains a functional API and a set of challenges for you to work through.</value>
+      <webElementGuid>92b7700d-12aa-4e30-91ce-7c586f5d3e1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/p[1]</value>
+      <webElementGuid>b1f7606b-53da-41d9-b6fa-e9894f1554db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/p</value>
+      <webElementGuid>2b0547f7-9c7b-4fff-bd3c-50f010517799</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The API Challenges'])[1]/following::p[1]</value>
+      <webElementGuid>91a279bb-7475-492e-b414-5035ddbed4ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Form'])[1]/following::p[1]</value>
+      <webElementGuid>f7dc9c58-2ffd-491b-b04f-81d8db5d7f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use The Heroku Hosted Version'])[1]/preceding::p[4]</value>
+      <webElementGuid>6eeda046-a86e-4978-96ca-eefff4b266f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About The Challenges Application'])[1]/preceding::p[5]</value>
+      <webElementGuid>58c5e02a-73df-4783-a5e5-9585f35ccec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The API Challenges is an application which you can use to practice API testing and automating. It is written in Java, runnable locally and has been deployed to the cloud for easy access. It contains a functional API and a set of challenges for you to work through.']/parent::*</value>
+      <webElementGuid>05b8a4e1-336e-485a-8092-1774c0050398</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>f9866c1f-6959-4d53-8418-732a16bb4175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'The API Challenges is an application which you can use to practice API testing and automating. It is written in Java, runnable locally and has been deployed to the cloud for easy access. It contains a functional API and a set of challenges for you to work through.' or . = 'The API Challenges is an application which you can use to practice API testing and automating. It is written in Java, runnable locally and has been deployed to the cloud for easy access. It contains a functional API and a set of challenges for you to work through.')]</value>
+      <webElementGuid>575e7433-d99a-465b-8993-60f3bcf2da27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

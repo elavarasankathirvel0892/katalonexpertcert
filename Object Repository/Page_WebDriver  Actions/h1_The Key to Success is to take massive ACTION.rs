@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_The Key to Success is to take massive ACTION</name>
+   <tag></tag>
+   <elementGuidId>d2a1a032-3cd2-4de3-8804-87632a2eff46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#main-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='main-header']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;The Key to Success is to take massive ACTION!&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>03a3bed0-35fd-430d-9150-c8ae2752819f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>main-header</value>
+      <webElementGuid>505b38bb-158c-4e80-9774-ab5c619d94cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Key to Success is to take massive ACTION!</value>
+      <webElementGuid>e63d6118-502a-48d8-b7ff-10529bb37d5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-header&quot;)</value>
+      <webElementGuid>a322313b-4368-4a61-991c-97529dd42e42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h1[@id='main-header']</value>
+      <webElementGuid>b386c462-1e86-4930-8a87-f8d3fa237a74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WebdriverUniversity.com (Actions)'])[1]/following::h1[1]</value>
+      <webElementGuid>26b3bcc9-fde8-48dd-be3f-767c52a53b54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle navigation'])[1]/following::h1[1]</value>
+      <webElementGuid>28f3e53a-a894-42c0-8998-a4eb418fcc0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DRAG ME TO MY TARGET!'])[1]/preceding::h1[1]</value>
+      <webElementGuid>c2c05b58-c322-45d3-9043-66817c27f354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DROP HERE!'])[1]/preceding::h1[1]</value>
+      <webElementGuid>466cd0d6-f2b3-4cbb-bc74-5c3687a8e41f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Key to Success is to take massive ACTION!']/parent::*</value>
+      <webElementGuid>ee1d4b8d-1142-4bb6-bcd2-a6c368fe0a43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>084c186a-a841-4afe-8c5c-30c54b676269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[@id = 'main-header' and (text() = 'The Key to Success is to take massive ACTION!' or . = 'The Key to Success is to take massive ACTION!')]</value>
+      <webElementGuid>56ccf18c-996c-48c0-b2c5-61309843a2b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Gain Access to Exclusive videos, article_e460d5</name>
+   <tag></tag>
+   <elementGuidId>be86d872-6dba-4c0f-9f08-7713a8c2d55b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#gain-access-to-exclusive-videos-articles-and-qa-content-for-only-1-a-month</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[@id='gain-access-to-exclusive-videos-articles-and-qa-content-for-only-1-a-month']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Gain Access to Exclusive videos, articles and Q&amp;A content for only $1 a Month”&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>c0f4585c-c6f2-4673-8193-6e0fc024d772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>gain-access-to-exclusive-videos-articles-and-qa-content-for-only-1-a-month</value>
+      <webElementGuid>3e261ce0-1f70-4484-8676-0c58077b100d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gain Access to Exclusive videos, articles and Q&amp;A content for only $1 a Month”</value>
+      <webElementGuid>50109a1a-781f-458b-8751-07579fc687b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gain-access-to-exclusive-videos-articles-and-qa-content-for-only-1-a-month&quot;)</value>
+      <webElementGuid>8b76654d-f61d-4a71-8615-97a19a385c30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h3[@id='gain-access-to-exclusive-videos-articles-and-qa-content-for-only-1-a-month']</value>
+      <webElementGuid>f1b70f8e-69f0-415c-9c67-2c2e4c0393eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div/h3</value>
+      <webElementGuid>9fd9c21d-04f7-4606-a248-0d45ea52e121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='is creating'])[1]/following::h3[1]</value>
+      <webElementGuid>9c349458-53d7-414e-bb48-42f0acbe872c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Technical Web Testing 101'])[1]/preceding::h3[1]</value>
+      <webElementGuid>5676ed3c-968a-4604-a81f-6ff3e1d3b9eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gain Access to Exclusive videos, articles and Q&amp;A content for only $1 a Month”']/parent::*</value>
+      <webElementGuid>8ae9a82e-a86f-44d2-a344-f8e3de978048</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>7666836c-be19-4b7a-ac34-db3a493d507d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[@id = 'gain-access-to-exclusive-videos-articles-and-qa-content-for-only-1-a-month' and (text() = 'Gain Access to Exclusive videos, articles and Q&amp;A content for only $1 a Month”' or . = 'Gain Access to Exclusive videos, articles and Q&amp;A content for only $1 a Month”')]</value>
+      <webElementGuid>50193504-9f0d-4051-a191-efbca3de3b8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Keep Clicking - Text will Appear Aft_6174d3</name>
+   <tag></tag>
+   <elementGuidId>b33f44a1-ac64-471e-9ce0-9b7d11fbd8bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#click-accordion</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='click-accordion']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Keep Clicking! - Text will Appear After 5 Seconds! +&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8b93584c-f84d-4bc6-b5c8-974c76307ecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordion</value>
+      <webElementGuid>7802b87c-02fc-4f74-b69a-a81a76529c7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>click-accordion</value>
+      <webElementGuid>8a9b327b-114b-480d-80e0-8f3c14695888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Keep Clicking! - Text will Appear After 5 Seconds!</value>
+      <webElementGuid>89a4d70c-2969-4e6d-be6a-394c231000d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;click-accordion&quot;)</value>
+      <webElementGuid>d739efee-273e-4848-a04e-6b0613cdbb6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='click-accordion']</value>
+      <webElementGuid>c0711b5e-c3c8-4c7b-afaa-c490a7eb3c58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Testing'])[1]/following::button[1]</value>
+      <webElementGuid>b2458063-ce05-479a-bba0-41fc975fee88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cucumber BDD'])[1]/following::button[2]</value>
+      <webElementGuid>a36bd47a-f3a4-4a05-a64c-45a04afd4f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Keep Clicking! - Text will Appear After 5 Seconds!']/parent::*</value>
+      <webElementGuid>9e45e6e8-9f27-48dc-9fec-d0406bb7c46d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]</value>
+      <webElementGuid>dd1b004e-748d-4637-8b03-b9ac073d34bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'click-accordion' and (text() = 'Keep Clicking! - Text will Appear After 5 Seconds!' or . = 'Keep Clicking! - Text will Appear After 5 Seconds!')]</value>
+      <webElementGuid>de1e558e-93d6-4093-bdf0-1daca51c09e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_31 May 2022 Update</name>
+   <tag></tag>
+   <elementGuidId>141665f6-5c07-4220-b49c-642edd4246a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>em</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='_31-may-2022-update_']/em</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;31 May 2022 Update&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>59592570-3f31-480e-adc0-8faf432300ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>31 May 2022 Update</value>
+      <webElementGuid>527dc5ef-2725-4faf-91c1-be98c93335fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_31-may-2022-update_&quot;)/em[1]</value>
+      <webElementGuid>3b1344e6-42b4-4e56-99a9-03562aad1b84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//h2[@id='_31-may-2022-update_']/em</value>
+      <webElementGuid>644f16f9-774f-4ec3-8cfe-3ed8fb9d4759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gain Access to Exclusive videos, articles and Q&amp;A content for only $1 a Month”'])[1]/following::em[1]</value>
+      <webElementGuid>f519c8d5-98f2-4809-be05-eb99ca00e80a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Technical Web Testing 101'])[1]/preceding::em[1]</value>
+      <webElementGuid>1211135d-2845-45d0-8009-17052b4e44b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evil Tester Talks'])[2]/preceding::em[1]</value>
+      <webElementGuid>f7f4aba4-1280-4329-aa41-21670883f66a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='31 May 2022 Update']/parent::*</value>
+      <webElementGuid>e7cfad48-5e47-48ff-b811-3a202eec954e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//em</value>
+      <webElementGuid>be94e001-14e9-4095-aae0-b6f9a399a4f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//em[(text() = '31 May 2022 Update' or . = '31 May 2022 Update')]</value>
+      <webElementGuid>d452e1fe-3732-4ef8-8aee-c5b5da04f979</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

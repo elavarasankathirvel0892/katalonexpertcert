@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Alan Richardson is creating Better Softw_774077</name>
+   <tag></tag>
+   <elementGuidId>57126e24-1b01-49b8-b109-06699250f99b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#alan-richardson-is-creating-better-software-testers-and-developers-through-mentoring</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='alan-richardson-is-creating-better-software-testers-and-developers-through-mentoring']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;“Alan Richardson is creating Better Software Testers and Developers Through Mentoring.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>e340cf0f-24a1-4238-9b83-0a5017df8721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>alan-richardson-is-creating-better-software-testers-and-developers-through-mentoring</value>
+      <webElementGuid>a1e80e3f-1789-478f-8f31-870a598d768b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>“Alan Richardson is creating Better Software Testers and Developers Through Mentoring.</value>
+      <webElementGuid>18fc5b61-c5e5-44ae-bba6-1d009bebdd0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alan-richardson-is-creating-better-software-testers-and-developers-through-mentoring&quot;)</value>
+      <webElementGuid>85b8d11b-078f-4f09-b38b-7a496100923d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='alan-richardson-is-creating-better-software-testers-and-developers-through-mentoring']</value>
+      <webElementGuid>bceba461-63c6-4c91-885f-7308769dfd2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div/h2</value>
+      <webElementGuid>13fe9580-1d8a-4042-89e9-42fceece8587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join Evil Tester on Patreon'])[1]/following::h2[1]</value>
+      <webElementGuid>d800a134-6399-4de5-9473-f451ece72cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Form'])[1]/following::h2[1]</value>
+      <webElementGuid>aad0dadd-5aea-4721-83f3-3803ff1fd56c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gain Access to Exclusive videos, articles and Q&amp;A content for only $1 a Month”'])[1]/preceding::h2[1]</value>
+      <webElementGuid>c735da23-6609-4b84-82d4-c3fc783fe81f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='“Alan Richardson']/parent::*</value>
+      <webElementGuid>ec16d028-621c-4740-8eb3-d5e3db8af990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>daaf00fb-c0d7-4171-9a99-c1b253cc4164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'alan-richardson-is-creating-better-software-testers-and-developers-through-mentoring' and (text() = '“Alan Richardson is creating Better Software Testers and Developers Through Mentoring.' or . = '“Alan Richardson is creating Better Software Testers and Developers Through Mentoring.')]</value>
+      <webElementGuid>abd64401-709b-46d2-b6a3-faf996b8c0e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Patreon Membership - Exclusive Online Tr_e4669b</name>
+   <tag></tag>
+   <elementGuidId>d78c45d7-37a0-4552-ab14-649b4213e1dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(5) > h2.text-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main']/div[5]/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Patreon Membership - Exclusive Online Training for Only $1 a Month&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>e0ccd692-a908-48a1-b88a-32050d8463be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center</value>
+      <webElementGuid>b0296f09-c565-4f6d-9b1d-ffae801290f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Patreon Membership - Exclusive Online Training for Only $1 a Month</value>
+      <webElementGuid>0e529ee2-c308-4b88-a8f3-5bc8ed8a2b1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[5]/h2[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>40856f81-f423-4bbf-9b95-78393beebc9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/div[5]/h2</value>
+      <webElementGuid>d0cf9a77-43c4-4c95-9563-1968f22fda19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read The Blog'])[1]/following::h2[1]</value>
+      <webElementGuid>bcfcff40-5d97-4a6b-8b8a-c7f1cfae1669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Episode 020 - The Test Automation Pyramid Episode - The Evil Tester Show'])[1]/following::h2[1]</value>
+      <webElementGuid>34a46671-38c9-410e-b697-9af978a425a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exclusive online training courses (10+)'])[1]/preceding::h2[1]</value>
+      <webElementGuid>6392c88a-6dde-48b6-83fe-623a838d3b2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exclusive e-books'])[1]/preceding::h2[1]</value>
+      <webElementGuid>2b22b75b-194e-4448-bfc5-334f3a08967c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Patreon Membership - Exclusive Online Training for Only $1 a Month']/parent::*</value>
+      <webElementGuid>00d8f93c-c89d-4e89-9666-37b77f75c9c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/h2</value>
+      <webElementGuid>6d4c6fc2-9f28-4c56-884f-950a281f0d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Patreon Membership - Exclusive Online Training for Only $1 a Month' or . = 'Patreon Membership - Exclusive Online Training for Only $1 a Month')]</value>
+      <webElementGuid>9426a90c-e358-40ef-859f-d96185262266</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

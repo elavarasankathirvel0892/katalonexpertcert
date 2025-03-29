@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Most of my tools are available on GitHub,_2febe0</name>
+   <tag></tag>
+   <elementGuidId>f3e20a67-d879-401a-81a7-0d02b7617a40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main']/div[2]/div/article/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Most of my tools are available on GitHub, there are 80+ repositories using langu&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ad517cbb-5115-42a5-adcc-8756702f9213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Most of my tools are available on GitHub, there are 80+ repositories using languages as diverse as: C++, VB, PHP, Java, Auto It, C, Perl, and probably a few others.</value>
+      <webElementGuid>719ed14d-e2a0-42d5-ae5f-28fcfbdb826b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;jumbotron&quot;]/article[1]/p[2]</value>
+      <webElementGuid>21695903-a0af-4ac3-a127-07cd2d832726</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/div[2]/div/article/p[2]</value>
+      <webElementGuid>8ba8fb9b-4df0-4c63-bc1d-767261c59321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools'])[2]/following::p[2]</value>
+      <webElementGuid>d60ad8f5-e61d-41e5-a2b2-7a25f254f5a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Form'])[1]/following::p[2]</value>
+      <webElementGuid>1de0afa9-ef58-44d6-88ca-b438f04e79ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Most of my tools are available on']/parent::*</value>
+      <webElementGuid>0365e688-ee4d-42a6-8399-3a8cc76597cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>b50a4e4c-4365-4d48-9d67-1d0b1456effd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Most of my tools are available on GitHub, there are 80+ repositories using languages as diverse as: C++, VB, PHP, Java, Auto It, C, Perl, and probably a few others.' or . = 'Most of my tools are available on GitHub, there are 80+ repositories using languages as diverse as: C++, VB, PHP, Java, Auto It, C, Perl, and probably a few others.')]</value>
+      <webElementGuid>d8ca9280-fd8b-46bc-9d65-d760c18f8b4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

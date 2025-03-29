@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_manda akhil user</name>
+   <tag></tag>
+   <elementGuidId>e1574fc1-a006-457a-8302-665ad48a5981</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.oxd-text.oxd-text--p.orangehrm-buzz-widget-header-emp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[4]/div/div[2]/div/div/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;manda akhil user&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>eb80e62b-ff7b-4eab-91b9-7fbbb729bf24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--p orangehrm-buzz-widget-header-emp</value>
+      <webElementGuid>292e7325-5cd5-408f-8462-4af48c8febb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>manda akhil user</value>
+      <webElementGuid>fad016b7-500b-414e-ab23-a74a681048e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;oxd-grid-3 orangehrm-dashboard-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters orangehrm-dashboard-widget&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--white orangehrm-dashboard-widget&quot;]/div[@class=&quot;orangehrm-dashboard-widget-body --scroll-visible&quot;]/div[@class=&quot;oxd-grid-1 orangehrm-buzz-widget&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters orangehrm-buzz-widget-card&quot;]/div[@class=&quot;orangehrm-buzz-widget-header&quot;]/div[@class=&quot;orangehrm-buzz-widget-header-text&quot;]/p[@class=&quot;oxd-text oxd-text--p orangehrm-buzz-widget-header-emp&quot;]</value>
+      <webElementGuid>be4cb35e-bbfa-47f8-9dc2-2b490f9af790</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[4]/div/div[2]/div/div/div/div[2]/p</value>
+      <webElementGuid>46309ade-0379-4008-b70b-478becac89f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='manda akhil user']/parent::*</value>
+      <webElementGuid>7e493848-96e8-4305-b848-6ed6b0c76082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div/div/div[2]/p</value>
+      <webElementGuid>4741f3a2-6d5f-479d-afc2-225a8e957397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'manda akhil user' or . = 'manda akhil user')]</value>
+      <webElementGuid>d448f363-575c-4002-b2f2-f809330c5111</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Well done for scrolling to me</name>
+   <tag></tag>
+   <elementGuidId>ab4a5a57-9091-42a9-b0ec-854c8eb53f92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#zone1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zone1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Well done for scrolling to me!&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7b5e771b-d1d0-41fc-a0e2-b4bcf3312be1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>thumbnail</value>
+      <webElementGuid>39c1e4dd-ae4d-4165-ada5-6d7274a4b65d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>zone1</value>
+      <webElementGuid>ebb21a13-f42e-4655-905f-9eedf07157b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Well done for scrolling to me!</value>
+      <webElementGuid>e3676446-3c83-4323-ba5f-5a6be6765ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zone1&quot;)</value>
+      <webElementGuid>d9aca725-3752-461d-bd20-731aa669a629</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='zone1']</value>
+      <webElementGuid>c0d37b3f-0d2a-40e3-b46b-d6dce03a7d14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Just Scrolling Around!'])[1]/following::div[2]</value>
+      <webElementGuid>00c2366d-3ffa-4831-8e22-3903bc73c5c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WebDriver (Scrolling)'])[1]/following::div[4]</value>
+      <webElementGuid>a7dab8f1-6527-4627-816d-6734619efe2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dont forget to scroll to me!'])[1]/preceding::div[5]</value>
+      <webElementGuid>62eab324-ae18-4890-b778-cb48e3909544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::div[9]</value>
+      <webElementGuid>1a6630df-b791-4584-aa40-ab3f8457c5f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Well done for scrolling to me!']/parent::*</value>
+      <webElementGuid>62678ad7-7092-430b-b3d8-90b8c975dab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>fefc026a-9ba4-4c18-90ee-629bb567be2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'zone1' and (text() = 'Well done for scrolling to me!' or . = 'Well done for scrolling to me!')]</value>
+      <webElementGuid>c8056125-11c4-443c-9b97-3127dbeefea9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

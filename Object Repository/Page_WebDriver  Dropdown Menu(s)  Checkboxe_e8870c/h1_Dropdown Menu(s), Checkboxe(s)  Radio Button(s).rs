@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Dropdown Menu(s), Checkboxe(s)  Radio Button(s)</name>
+   <tag></tag>
+   <elementGuidId>03483682-2d90-4a9b-93b8-85e1f160fa57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-header']/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Dropdown Menu(s), Checkboxe(s) &amp; Radio Button(s)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>cda9d9d5-b5c4-441d-a304-932c64e0aa99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dropdown Menu(s), Checkboxe(s) &amp; Radio Button(s)</value>
+      <webElementGuid>bab4a944-454a-4c95-a802-422476501f75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-header&quot;)/h1[1]</value>
+      <webElementGuid>9ad5cbce-dbe1-4c9b-9f1b-2ad36f94b190</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-header']/h1</value>
+      <webElementGuid>aa358d33-2aee-4fb2-ac1f-25b41925357b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WebdriverUniversity.com (Dropdown Menu(s), Checkboxe(s), Radio Button(s))'])[1]/following::h1[1]</value>
+      <webElementGuid>002bff66-df3b-4f72-9636-49c3f6ff228a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle navigation'])[1]/following::h1[1]</value>
+      <webElementGuid>35705816-d940-43bc-92a4-c108a778aac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dropdown Menu(s)'])[1]/preceding::h1[1]</value>
+      <webElementGuid>98e6bb79-c299-479b-8625-65c74d876759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkboxe(s)'])[1]/preceding::h1[1]</value>
+      <webElementGuid>aa8a8fba-4e51-44b5-949d-23bfec4c7d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dropdown Menu(s), Checkboxe(s) &amp; Radio Button(s)']/parent::*</value>
+      <webElementGuid>906c129b-9f92-4ab0-9d7c-c6bfaf16b497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>1ae943ec-99f7-405c-91aa-8717d526f659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Dropdown Menu(s), Checkboxe(s) &amp; Radio Button(s)' or . = 'Dropdown Menu(s), Checkboxe(s) &amp; Radio Button(s)')]</value>
+      <webElementGuid>ce18cb95-8f0f-4fc0-8db7-b40653cbe9e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

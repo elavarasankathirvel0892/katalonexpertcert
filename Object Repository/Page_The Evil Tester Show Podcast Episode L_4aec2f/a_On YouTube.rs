@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_On YouTube</name>
+   <tag></tag>
+   <elementGuidId>99cf5099-b951-47d6-94ac-66d57fa6bef7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>article > ul > li:nth-of-type(3) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main']/div/div/article/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;On YouTube&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d2c0eaaa-5e0f-4ac0-961d-270ff1ede1da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.youtube.com/playlist?list=PLrM2ELpRbbu4UdUPXRkJzSnxqcBXjFiK2</value>
+      <webElementGuid>40534843-9d58-4170-ad71-ac8c323a4f46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>db2bfc00-c71a-4f99-8760-8df0b8959e3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener noreferrer</value>
+      <webElementGuid>78c393a3-91f3-4480-a6d9-93e99c393741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>On YouTube</value>
+      <webElementGuid>08561452-9b10-4f8c-9413-9c588bfd2f1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;jumbotron&quot;]/article[1]/ul[1]/li[3]/a[1]</value>
+      <webElementGuid>ec7c9145-4d82-4f59-aea2-2e7e4cc8afbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/div/div/article/ul/li[3]/a</value>
+      <webElementGuid>e1b70d35-5da3-48d1-b4cc-6e49d41fd470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'On YouTube')]</value>
+      <webElementGuid>c5bf65cf-9466-4fc2-8e01-9e6bb717e919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RSS Feed'])[1]/following::a[1]</value>
+      <webElementGuid>376f74ab-36e0-47ff-a525-9c47ef68bb57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On Podcast.co'])[1]/following::a[2]</value>
+      <webElementGuid>cd3f63eb-6c89-4ba1-8f4c-2540adacc332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On Apple Podcasts'])[1]/preceding::a[1]</value>
+      <webElementGuid>6e9521f2-4343-4840-b5db-c178fd172c7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On Spotify'])[1]/preceding::a[2]</value>
+      <webElementGuid>a699f7b7-687a-47f0-8b9d-a7017ec31daf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='On YouTube']/parent::*</value>
+      <webElementGuid>f26434d0-3c1b-45b1-ab18-ba189fc28950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.youtube.com/playlist?list=PLrM2ELpRbbu4UdUPXRkJzSnxqcBXjFiK2')]</value>
+      <webElementGuid>6c394734-29a3-4676-b427-d613daf55030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/ul/li[3]/a</value>
+      <webElementGuid>1c3aa1d5-142e-4b9b-8b5b-56896ed3a706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.youtube.com/playlist?list=PLrM2ELpRbbu4UdUPXRkJzSnxqcBXjFiK2' and (text() = 'On YouTube' or . = 'On YouTube')]</value>
+      <webElementGuid>18a7afb2-1bb6-4b7e-8331-1ae57194a88d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Welcome to The Evil Tester Show. A Podca_278535</name>
+   <tag></tag>
+   <elementGuidId>0598ce70-b423-41d5-94bd-a41d3d91a8a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#welcome-to-the-evil-tester-show-a-podcast-audio-and-visual-about-software-testing</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='welcome-to-the-evil-tester-show-a-podcast-audio-and-visual-about-software-testing']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Welcome to “The Evil Tester Show”. A Podcast (audio and visual) about Software Testing.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>213c5320-2bc1-4d24-90bf-8fc961e585fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>welcome-to-the-evil-tester-show-a-podcast-audio-and-visual-about-software-testing</value>
+      <webElementGuid>fe42eeef-da71-4180-b32b-5eb81c1f5f07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome to “The Evil Tester Show”. A Podcast (audio and visual) about Software Testing.</value>
+      <webElementGuid>33ef3d61-deff-47bb-bfff-eda7e9514315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;welcome-to-the-evil-tester-show-a-podcast-audio-and-visual-about-software-testing&quot;)</value>
+      <webElementGuid>fb46d396-2616-480c-abd4-41a1b36607f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='welcome-to-the-evil-tester-show-a-podcast-audio-and-visual-about-software-testing']</value>
+      <webElementGuid>59f37b75-d16f-4347-99be-8e79cba560c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/div/div/article/h2</value>
+      <webElementGuid>9309d7ea-3539-4bdb-b290-20cb0c5f2e03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TLDR; The world needs another Software Testing Podcast. So I created one.'])[1]/following::h2[1]</value>
+      <webElementGuid>d813c965-a848-441a-a2b7-ef43dac4db79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Evil Tester Show'])[1]/following::h2[1]</value>
+      <webElementGuid>a517da4f-6588-4a7c-b49e-8fd0f2cc0a9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On Podcast.co'])[1]/preceding::h2[1]</value>
+      <webElementGuid>793a110d-5f07-461a-9983-61aaabd20db0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RSS Feed'])[1]/preceding::h2[1]</value>
+      <webElementGuid>ccec9516-b754-4497-a314-49c217817c9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Welcome to “The Evil Tester Show”. A Podcast (audio and visual) about Software Testing.']/parent::*</value>
+      <webElementGuid>3f89a535-74a1-46ff-87b7-882ba52b7fc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>c866c088-b85a-4e68-bacd-fc2fb4d8b8bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'welcome-to-the-evil-tester-show-a-podcast-audio-and-visual-about-software-testing' and (text() = 'Welcome to “The Evil Tester Show”. A Podcast (audio and visual) about Software Testing.' or . = 'Welcome to “The Evil Tester Show”. A Podcast (audio and visual) about Software Testing.')]</value>
+      <webElementGuid>d95bdab3-b191-4b88-865a-ba1d089ab4b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

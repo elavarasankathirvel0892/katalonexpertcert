@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Most of my speaking engagements are invit_cd151a</name>
+   <tag></tag>
+   <elementGuidId>9a935b66-f453-409c-afd3-18b0ea28665b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(4)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main']/div/div/article/p[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Most of my speaking engagements are invited talks which are uniquely created for&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3279e663-6b95-4ab5-bf7b-e48affb1cb43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Most of my speaking engagements are invited talks which are uniquely created for the event. You can contact me if you would like me to speak at your event.</value>
+      <webElementGuid>05b92a70-95b0-4a34-b1ed-e2a41be811ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;jumbotron&quot;]/article[1]/p[4]</value>
+      <webElementGuid>84bf3c4c-ec37-4e4f-9d64-a3ab719be39a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/div/div/article/p[4]</value>
+      <webElementGuid>c782d998-4692-4fd7-8fd7-581f2089cf18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn More and Start Watching Testing Talks'])[1]/following::p[1]</value>
+      <webElementGuid>68c2505a-90a7-42b2-be49-82dd75244faa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evil Tester Talks'])[2]/following::p[2]</value>
+      <webElementGuid>e5044b20-2c2c-4369-a6d0-be3442de5e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View List of Conferences'])[1]/preceding::p[1]</value>
+      <webElementGuid>050b619c-a9eb-4644-83c2-455736b71781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Most of my speaking engagements are invited talks which are uniquely created for the event. You can']/parent::*</value>
+      <webElementGuid>faeceac4-0e70-4ee7-9824-a1f3c3751266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[4]</value>
+      <webElementGuid>7bb22468-db52-443e-8180-db7ac829d23e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Most of my speaking engagements are invited talks which are uniquely created for the event. You can contact me if you would like me to speak at your event.' or . = 'Most of my speaking engagements are invited talks which are uniquely created for the event. You can contact me if you would like me to speak at your event.')]</value>
+      <webElementGuid>ed767bef-660f-4656-b306-08152a505608</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

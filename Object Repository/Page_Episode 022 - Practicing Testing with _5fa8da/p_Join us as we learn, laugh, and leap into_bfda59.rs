@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Join us as we learn, laugh, and leap into_bfda59</name>
+   <tag></tag>
+   <elementGuidId>3ab7a5b0-c53b-45d3-94bf-9bbdf27a0a6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(4)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='postcontent']/p[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Join us as we learn, laugh, and leap into the realm of testing practice. Tune in&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>34967e9a-1b46-422d-bd1f-01f24c04b858</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Join us as we learn, laugh, and leap into the realm of testing practice. Tune in, engage with new ideas, and maybe even find inspiration for your own practice sessions. Don’t forget to check out James’s resources at workroom-productions.com for more testing challenges and exercises.</value>
+      <webElementGuid>08f8712e-802d-4ced-a0a5-b7ca829c135c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;postcontent&quot;)/p[4]</value>
+      <webElementGuid>6c40b585-c7a5-4d6b-954b-eaa4d15e0d81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='postcontent']/p[4]</value>
+      <webElementGuid>82ee58e1-cd93-45da-98cc-57adf8a1ce87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patreon supporters'])[1]/following::p[2]</value>
+      <webElementGuid>a0592827-0875-4b23-b83f-6ee639f8c9de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Notes'])[1]/following::p[4]</value>
+      <webElementGuid>c1bff940-aaef-4406-9c71-e9e9ce1ff29f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Special Guest: James Lyndsay'])[1]/preceding::p[1]</value>
+      <webElementGuid>3a9b8ffa-d40e-4634-a4db-690d5ee02d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='workroom-productions.com'])[1]/preceding::p[1]</value>
+      <webElementGuid>f74e45e0-f3b0-4c55-a8a7-43ea461141fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Join us as we learn, laugh, and leap into the realm of testing practice. Tune in, engage with new ideas, and maybe even find inspiration for your own practice sessions. Don’t forget to check out James’s resources at workroom-productions.com for more testing challenges and exercises.']/parent::*</value>
+      <webElementGuid>ee9fe743-21be-473f-9d84-2b070e0b23e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[4]</value>
+      <webElementGuid>42c05df8-d1e4-4a34-83ab-6314ebf58ff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Join us as we learn, laugh, and leap into the realm of testing practice. Tune in, engage with new ideas, and maybe even find inspiration for your own practice sessions. Don’t forget to check out James’s resources at workroom-productions.com for more testing challenges and exercises.' or . = 'Join us as we learn, laugh, and leap into the realm of testing practice. Tune in, engage with new ideas, and maybe even find inspiration for your own practice sessions. Don’t forget to check out James’s resources at workroom-productions.com for more testing challenges and exercises.')]</value>
+      <webElementGuid>9d662b5c-2e8d-4caf-a9f2-8fba1f3b118d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

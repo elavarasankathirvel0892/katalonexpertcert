@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CLICK ME</name>
+   <tag></tag>
+   <elementGuidId>61b3443d-90e5-4108-9352-0ed2ee93b282</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#zero-opacity</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zero-opacity']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#zero-opacity</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e2e888ff-2ecc-425d-8599-162c7d39bfff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-title</value>
+      <webElementGuid>2cb39ece-7c5b-42cc-b9cc-8e3db7062755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>zero-opacity</value>
+      <webElementGuid>f4754f8e-6663-45e6-8cc0-bd83fe06e5bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                       CLICK ME!!!
+                  </value>
+      <webElementGuid>022bbb1a-2dd5-410b-b491-e49d94b4cf4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zero-opacity&quot;)</value>
+      <webElementGuid>fc05085a-01e6-4ab7-8d26-9df37c6a83ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='zero-opacity']</value>
+      <webElementGuid>4eb971f2-5abd-46f7-ac6c-acb324f046d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zero Opacity'])[1]/following::div[1]</value>
+      <webElementGuid>9f0b88a2-0065-4e5c-8d32-1009f92e284e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CLICK ME!!'])[1]/following::div[3]</value>
+      <webElementGuid>ed359e04-2d09-42a0-841d-8942716bb77a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This is a jQuery Dialog.'])[1]/preceding::div[3]</value>
+      <webElementGuid>4a8c2cf6-76f2-4585-979c-92946077a590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div</value>
+      <webElementGuid>629e30a5-271c-4a4e-bf36-c094c3f69f51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'zero-opacity' and (text() = '
+                       CLICK ME!!!
+                  ' or . = '
+                       CLICK ME!!!
+                  ')]</value>
+      <webElementGuid>784988f9-9462-4c74-819d-c67b686c9c96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Automation Testing</name>
+   <tag></tag>
+   <elementGuidId>08f01d42-f275-4c8c-abff-b0dd480d348d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#automation-accordion</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='automation-accordion']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Automation Testing +&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5b0e9fe1-418f-42e5-92a6-3a1cdcf9c1f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordion</value>
+      <webElementGuid>6a2e102b-1bb4-4f23-a37d-c729709b633b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>automation-accordion</value>
+      <webElementGuid>19db8273-afc7-4e6b-b3a3-7766a5c3d346</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Automation Testing</value>
+      <webElementGuid>73909bed-8d18-430e-84a9-f311c2ea28db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;automation-accordion&quot;)</value>
+      <webElementGuid>4c8bbac8-ac27-4be8-b223-600d43434a81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='automation-accordion']</value>
+      <webElementGuid>4dc3f78b-7ce3-4f02-8cd1-64b703fa9e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cucumber BDD'])[1]/following::button[1]</value>
+      <webElementGuid>4b9ef0ff-55db-4b8e-9836-fc8281f06441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manual Testing'])[1]/following::button[2]</value>
+      <webElementGuid>00ccc82b-cb18-4e3d-8646-e6172335a549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep Clicking! - Text will Appear After 5 Seconds!'])[1]/preceding::button[1]</value>
+      <webElementGuid>84503ce7-c7b2-4a14-975b-8ee23218233f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Automation Testing']/parent::*</value>
+      <webElementGuid>61236fb8-4118-4ccf-8f1e-c1b9c0e7ff8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>6ccbb7e7-67c5-41cb-abab-fb620260228c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'automation-accordion' and (text() = 'Automation Testing' or . = 'Automation Testing')]</value>
+      <webElementGuid>e8b99119-8d08-4aea-ae77-cef9590b190d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

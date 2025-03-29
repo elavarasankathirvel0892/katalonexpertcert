@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Follow James on LinkedIn to learn about u_61fe53</name>
+   <tag></tag>
+   <elementGuidId>14db86d5-4c8f-490f-92d4-6d5833a62a33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(6)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='postcontent']/p[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Follow James on LinkedIn to learn about up-coming practice sessions.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3e3cbf99-7d73-4bb6-9cec-0265bb5fd348</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Follow James on LinkedIn to learn about up-coming practice sessions.</value>
+      <webElementGuid>2ac097bc-26ee-4dc2-8ec4-677d42337772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;postcontent&quot;)/p[6]</value>
+      <webElementGuid>f3c3d346-5c62-477c-8e67-974be0400fad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='postcontent']/p[6]</value>
+      <webElementGuid>8dbbb67d-2cb1-4ae3-9242-288733a41908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='workroom-productions.com'])[1]/following::p[1]</value>
+      <webElementGuid>8f44450a-12ce-410e-9ef2-f3cae090ce13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Special Guest: James Lyndsay'])[1]/following::p[2]</value>
+      <webElementGuid>bcbc6f29-3ccc-44e7-b514-db3ed08fbec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About James'])[1]/preceding::p[1]</value>
+      <webElementGuid>ccc84155-e940-4f4e-a5d0-2445e714ffea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Follow James on']/parent::*</value>
+      <webElementGuid>0a6167f4-73c3-489b-ae92-9f44c6a009cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[6]</value>
+      <webElementGuid>a08a9cc4-df32-4653-a851-2a7d39471b66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Follow James on LinkedIn to learn about up-coming practice sessions.' or . = 'Follow James on LinkedIn to learn about up-coming practice sessions.')]</value>
+      <webElementGuid>bf41526b-e24a-4bc5-8c3e-2d456ce8e6ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

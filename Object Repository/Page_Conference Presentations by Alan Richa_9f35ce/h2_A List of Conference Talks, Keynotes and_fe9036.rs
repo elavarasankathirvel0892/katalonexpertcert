@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_A List of Conference Talks, Keynotes and_fe9036</name>
+   <tag></tag>
+   <elementGuidId>6daf20bf-3624-41e3-ba8a-8ba1a60a644c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#a-list-of-conference-talks-keynotes-and-tutorials</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='a-list-of-conference-talks-keynotes-and-tutorials']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;A List of Conference Talks, Keynotes and Tutorials&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>31164a7f-53ba-4e60-b584-167d1257633c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>a-list-of-conference-talks-keynotes-and-tutorials</value>
+      <webElementGuid>f014ab82-fb3f-4861-8caf-a3b881bf2fa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A List of Conference Talks, Keynotes and Tutorials</value>
+      <webElementGuid>82c16b86-b134-4edc-a719-7f1dacbfe74d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-list-of-conference-talks-keynotes-and-tutorials&quot;)</value>
+      <webElementGuid>7ed2ffd2-674d-4fcf-a844-92df2632d1a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='a-list-of-conference-talks-keynotes-and-tutorials']</value>
+      <webElementGuid>a06b3f44-d757-47da-ad6a-9f4ff7a27637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main']/div/div/article/h2</value>
+      <webElementGuid>8e96dd76-c4cf-4132-a582-aab4a3925394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conference Talks'])[1]/following::h2[1]</value>
+      <webElementGuid>2573d9e7-66b6-46b6-b130-89f03a7715b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Form'])[1]/following::h2[1]</value>
+      <webElementGuid>d1982dc8-8364-41d3-9e92-347a7c4c9fcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evil Tester Talks'])[2]/preceding::h2[1]</value>
+      <webElementGuid>12ccb387-f0c4-4d43-908f-6b4e00391127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn More and Start Watching Testing Talks'])[1]/preceding::h2[1]</value>
+      <webElementGuid>90c66cf7-59a2-453c-b466-a4548a19896e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='A List of Conference Talks, Keynotes and Tutorials']/parent::*</value>
+      <webElementGuid>011ba91a-2070-43f1-a2d8-eef3f0fa1070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>40b64652-9313-473d-aaf3-663071a54ea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'a-list-of-conference-talks-keynotes-and-tutorials' and (text() = 'A List of Conference Talks, Keynotes and Tutorials' or . = 'A List of Conference Talks, Keynotes and Tutorials')]</value>
+      <webElementGuid>4d94fecc-12be-4e8c-bf29-0411794fec32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

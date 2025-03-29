@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cancel_yt-spec-touch-feedback-shape__fill</name>
+   <tag></tag>
+   <elementGuidId>c5ef6190-0afd-41f3-b29e-be8837172bb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>yt-button-shape.style-scope.ytd-popup-container > button.yt-spec-button-shape-next.yt-spec-button-shape-next--text.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m > yt-touch-feedback-shape > div.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--touch-response > div.yt-spec-touch-feedback-shape__fill</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//yt-button-renderer[@id='cancel-button']/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Cancel&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>718cc82b-43c7-4672-82ce-5e58211b0526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yt-spec-touch-feedback-shape__fill</value>
+      <webElementGuid>215bf867-8306-4996-b551-94c686981d8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cancel-button&quot;)/yt-button-shape[@class=&quot;style-scope ytd-popup-container&quot;]/button[@class=&quot;yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m&quot;]/yt-touch-feedback-shape[1]/div[@class=&quot;yt-spec-touch-feedback-shape yt-spec-touch-feedback-shape--touch-response&quot;]/div[@class=&quot;yt-spec-touch-feedback-shape__fill&quot;]</value>
+      <webElementGuid>c0e5281e-127b-4be2-becb-ebc2771abca8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//yt-button-renderer[@id='cancel-button']/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]</value>
+      <webElementGuid>fddb4c59-fdfd-44b7-9557-c807459abe75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//yt-button-renderer/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]</value>
+      <webElementGuid>90031783-f976-4956-9a72-1b1b2155bf7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

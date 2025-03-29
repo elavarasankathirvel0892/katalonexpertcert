@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Everything runs in memory, or stores chal_40e6f2</name>
+   <tag></tag>
+   <elementGuidId>b0ec01bf-5578-4e06-aeb0-2198a7600fdd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-content']/div/p[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Everything runs in memory, or stores challenge session ot files, so there is no &quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0eb17f13-bc43-4db3-8ca1-59bdfb5dec65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Everything runs in memory, or stores challenge session ot files, so there is no database to worry about.</value>
+      <webElementGuid>867ff530-d8bf-4b57-b22b-849fb91db8af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;jumbotron&quot;]/p[3]</value>
+      <webElementGuid>c5737579-b6e2-4c22-9606-4d1cdfeae2de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-content']/div/p[3]</value>
+      <webElementGuid>7bf378bf-cba2-47c9-8bce-987b5550ceb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The API Challenges'])[1]/following::p[4]</value>
+      <webElementGuid>467c0d47-7f01-49b1-9d6a-987e55e4b5ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Form'])[1]/following::p[4]</value>
+      <webElementGuid>b8a243dc-ed67-4235-ab0e-40ac4ab62c39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use The Heroku Hosted Version'])[1]/preceding::p[1]</value>
+      <webElementGuid>7be4e5d2-c145-4016-ad70-0f603ffef784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About The Challenges Application'])[1]/preceding::p[2]</value>
+      <webElementGuid>529b105d-6cd1-4a74-bbac-64723996f817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Everything runs in memory, or stores challenge session ot files, so there is no database to worry about.']/parent::*</value>
+      <webElementGuid>a5fed398-817d-425f-b764-94620ddaf7bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p[3]</value>
+      <webElementGuid>4f7a0faa-0557-40fe-944e-b7d82621e498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Everything runs in memory, or stores challenge session ot files, so there is no database to worry about.' or . = 'Everything runs in memory, or stores challenge session ot files, so there is no database to worry about.')]</value>
+      <webElementGuid>9343499b-e4a3-46e1-8912-8abf30715a7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
